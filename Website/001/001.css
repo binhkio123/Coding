@@ -1,0 +1,18 @@
+body{
+    background-image: url("bg.jpg");
+    
+}
+#login{
+    
+    width: 350px;
+    height: 400px;
+    border: rgb(135, 22, 163) 20px solid;
+    border-radius: 20px;
+    
+    background-color: rgb(122, 216, 253);
+    text-align: center;
+}
+.ip{
+    border-radius: 10px;
+    border: cornsilk 1px solid;
+}
